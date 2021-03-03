@@ -1,0 +1,1 @@
+export const SET_MAPPED_DATA = "SET_MAPPED_DATA";

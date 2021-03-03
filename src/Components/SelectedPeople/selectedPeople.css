@@ -1,0 +1,29 @@
+.selected-people > h3 {
+	padding-left: 10px;
+}
+
+.selected-person {
+	background: #ddd;
+	padding: 10px 20px;
+	margin-bottom: 15px;
+	border-radius: 2px;
+	margin-left: 10px;
+}
+
+.remove-icon {
+	background: transparent !important;
+	color: black !important;
+	border: none !important;
+}
+
+.remove-icon :hover,
+.remove-icon :active {
+	background: transparent !important;
+	color: black !important;
+	box-shadow: none !important;
+}
+.remove-icon :focus {
+	background: var(--theme-primary-color) !important;
+	color: transparent !important;
+	box-shadow: none !important;
+}

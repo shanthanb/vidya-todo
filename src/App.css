@@ -1,0 +1,7 @@
+:root {
+	--theme-primary-color: #8c16f6;
+}
+
+.App {
+	background-color: var(--theme-primary-color);
+}
